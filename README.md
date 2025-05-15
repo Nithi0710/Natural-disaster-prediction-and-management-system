@@ -58,7 +58,5 @@ Natural disasters such as floods, earthquakes, and cyclones cause extensive loss
 - *Frontend*: HTML, CSS, JavaScript (Mobile App, Dashboard UI)
 - *Backend*: Python (Flask), Node.js
 - *AI/ML*: TensorFlow, Keras (LSTM for prediction)
-- *Database*: Supabase, Blockchain (Ethereum Smart Contracts)
-- *Communication APIs*: Twilio, Firebase Cloud Messaging
-- *IoT/Offline Support*: Raspberry Pi, LoRa, Wi-Fi Direct, Bluetooth
+- *Database*: Supabase
 - *GIS*: Google Maps, Satellite APIs
